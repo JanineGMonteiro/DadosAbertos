@@ -1,5 +1,5 @@
 
-# DadosAbertos teste 5
+# Dados-Abertos
 
 Repositório colaborativo para criação de notebooks pela comunidade.
 Todos os notebooks a serem desenvolvidos e compartilhados devem utilizar pelo menos um dos conjuntos de dados disponíveis no [Portal de Dados Abertos do ONS](dados.ons.org.br).
@@ -26,4 +26,6 @@ Os notebook estão divididos entre os seguintes tópicos:
 
 As linguagens de programação preferenciais para o desenvolvimento dos Notebooks serão Python ou R.
 
-    
+
+**Passo-a-passo para publicação**
+ 1. [Orientação]([https://github.com/ONSDados/DadosAbertos/tree/main/Avaliacao_da_operacao](https://ons-dl-prod-opendata.s3.amazonaws.com/dataset/github/Passo_a_Passo_Publicacao_no_GITHUB_ONS.pdf)) 
